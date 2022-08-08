@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yanina-amatore/NPM-assesment-example#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "jest": "^28.1.3"
   }
 }
